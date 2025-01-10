@@ -1,0 +1,14 @@
+Semestre 1
+Codigo: MAT-1201, Creditos: 3, Nombre: Calculo Diferencial + Ej, Prerrequisitos: []
+Codigo: QUI-1003, Creditos: 3, Nombre: Quimica General 1 + Lab/Ej, Prerrequisitos: []
+Codigo: IME-2002, Creditos: 3, Nombre: Ing. Mecanica: Introduccion, Prerrequisitos: []
+Codigo: ARL-1002, Creditos: 3, Nombre: Cosmos, Prerrequisitos: []
+Codigo: DEP-0010, Creditos: 1, Nombre: Deportes, Prerrequisitos: []
+
+Semestre 2
+Codigo: MAT-1202, Creditos: 3, Nombre: Calculo Integral + Ej, Prerrequisitos: [MAT-1201]
+
+Semestre 3
+Codigo: MAT-2002, Creditos: 3, Nombre: Ecuaciones Diferenciales, Prerrequisitos: [MAT-1201, MAT-1202]
+Codigo: MAT-2203, Creditos: 3, Nombre: Calculo Vectorial, Prerrequisitos: [MAT-1201, MAT-1202]
+
